@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  game_id: 
+  title: MyString
+  phone: MyString
+  email: MyString
+  concept: MyText
+  address: MyText
+
+two:
+  game_id: 
+  title: MyString
+  phone: MyString
+  email: MyString
+  concept: MyText
+  address: MyText
