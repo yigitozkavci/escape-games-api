@@ -14,5 +14,4 @@ namespace :game_data do
       end
     end
   end
-
 end
